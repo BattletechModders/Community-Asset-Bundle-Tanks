@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_po",
+    "HardpointData" : [
+        {
+            "location" : "front",
+            "weapons" : [
+                [
+                    "chrPrfWeap_pobase_front_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

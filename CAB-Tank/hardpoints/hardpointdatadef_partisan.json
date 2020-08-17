@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_partisan",
+    "HardpointData" : [
+        {
+            "location" : "front",
+            "weapons" : [
+                [
+                    "chrPrfWeap_partisanbase_front_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

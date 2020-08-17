@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_phalftrack",
+    "HardpointData" : [
+        {
+            "location" : "front",
+            "weapons" : [
+                [
+                    "chrPrfWeap_phalftrackbase_front_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

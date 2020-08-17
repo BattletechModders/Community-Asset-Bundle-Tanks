@@ -1,0 +1,15 @@
+{
+    "ID": "hardpointdatadef_mars",
+    "HardpointData": [
+        {
+            "location": "front",
+            "weapons": [
+                [
+                    "chrprfweap_mars_front_generic_eh1"
+                ]
+            ],
+            "blanks": [],
+            "mountingPoints": []
+        }
+    ]
+}
