@@ -1,0 +1,17 @@
+{
+    "Name": "CAB-Tanks",
+    "Enabled": true,
+
+    "Version": "11",
+    "Description": "Contains all graphical assets created by the community such as assetbundles for mechs/tanks/turrets.",
+    "Author": "Community",
+
+	"IgnoreLoadFailure": true,
+	
+	"Manifest": [  
+	
+	{ "Type": "HardpointDataDef", "Path": "hardpoints" },
+	{ "Type": "AssetBundle", "Path": "assetbundles" }
+
+    ]
+}
