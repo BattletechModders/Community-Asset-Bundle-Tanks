@@ -6,12 +6,320 @@
     "Description": "Contains all graphical assets created by the community such as assetbundles for mechs/tanks/turrets.",
     "Author": "Community",
 
-	"IgnoreLoadFailure": true,
-	
-	"Manifest": [  
-	
-	{ "Type": "HardpointDataDef", "Path": "hardpoints" },
-	{ "Type": "AssetBundle", "Path": "assetbundles" }
+    "IgnoreLoadFailure": true,
 
+    "Manifest": [
+        { "Type": "HardpointDataDef", "Path": "hardpoints" },
+        { "Type": "AssetBundle", "Path": "assetbundles" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aresbase.prefab", "AssetBundleName": "chrprfvhcl_aresbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aresbase/chrprfweap_aresbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aresbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_hetzerbase.prefab", "AssetBundleName": "chrprfvhcl_hetzerbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/hetzerbase/chrprfweap_hetzerbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_hetzerbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_savannahbase.prefab", "AssetBundleName": "chrprfvhcl_savannahbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/savannahbase/chrprfweap_savannahbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_savannahbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_jedgarbase.prefab", "AssetBundleName": "chrprfvhcl_jedgarbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/jedgarbase/chrprfweap_jedgarbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_jedgarbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_goblinbase.prefab", "AssetBundleName": "chrprfvhcl_goblinbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/goblinbase/chrprfweap_goblinbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_goblinbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_longtombase1.prefab", "AssetBundleName": "chrprfvhcl_longtombase1" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/longtombase1/chrprfweap_lrm_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_longtombase1" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_heavylrmbase.prefab", "AssetBundleName": "chrprfvhcl_heavylrmbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/heavylrmbase/chrprfweap_heavylrmbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_heavylrmbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_zhukovbase.prefab", "AssetBundleName": "chrprfvhcl_zhukovbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/zhukovbase/chrprfweap_zhukovbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_zhukovbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_banditbase.prefab", "AssetBundleName": "chrprfvhcl_banditbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/banditbase/chrprfweap_banditbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_banditbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_j27base.prefab", "AssetBundleName": "chrprfvhcl_j27base" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j27base/chrprfweap_j27base_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j27base" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_morrigubase.prefab", "AssetBundleName": "chrprfvhcl_morrigubase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/morrigubase/chrprfweap_morrigubase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_morrigubase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_challengerbase.prefab", "AssetBundleName": "chrprfvhcl_challengerbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/challengerbase/chrprfweap_challengerbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_challengerbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_devastatorbase.prefab", "AssetBundleName": "chrprfvhcl_devastatorbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/devastatorbase/chrprfweap_devastatorbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_devastatorbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_alacornbase.prefab", "AssetBundleName": "chrprfvhcl_alacornbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/alacornbase/chrprfweap_alacornbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_alacornbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_condorbase.prefab", "AssetBundleName": "chrprfvhcl_condorbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/condorbase/chrprfweap_condorbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_condorbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_vedettebase.prefab", "AssetBundleName": "chrprfvhcl_vedettebase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/vedettebase/chrprfweap_vedettebase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_vedettebase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_behemothbase.prefab", "AssetBundleName": "chrprfvhcl_behemothbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/behemothbase/chrPrfWeap_behemothbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_behemothbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_merkavabase.prefab", "AssetBundleName": "chrprfvhcl_merkavabase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/merkavabase/chrPrfWeap_merkavabase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_merkavabase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_partisanbase.prefab", "AssetBundleName": "chrprfvhcl_partisanbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/partisanbase/chrPrfWeap_partisanbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_partisanbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_pobase.prefab", "AssetBundleName": "chrprfvhcl_pobase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/pobase/chrPrfWeap_pobase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_pobase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_srmcarrierbase.prefab", "AssetBundleName": "chrprfvhcl_srmcarrierbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/srmcarrierbase/chrPrfWeap_srmcarrierbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_srmcarrierbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_marksmanbase.prefab", "AssetBundleName": "chrprfvhcl_marksmanbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/marksmanbase/chrPrfWeap_marksmanbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_marksmanbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_orobase.prefab", "AssetBundleName": "chrprfvhcl_orobase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/orobase/chrPrfWeap_orobase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_orobase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ac2carrierbase.prefab", "AssetBundleName": "chrprfvhcl_ac2carrierbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ac2carrierbase/chrprfweap_ac2carrierbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_ac2carrierbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gurzilbase.prefab", "AssetBundleName": "chrprfvhcl_gurzilbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gurzilbase/chrprfweap_gurzilbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_gurzilbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gulltopprabase.prefab", "AssetBundleName": "chrprfvhcl_gulltopprabase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gulltopprabase/chrprfweap_gulltopprabase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_gulltopprabase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gulltopprbase.prefab", "AssetBundleName": "chrprfvhcl_gulltopprbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gulltopprbase/chrprfweap_gulltopprbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_gulltopprbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_svantovitbase.prefab", "AssetBundleName": "chrprfvhcl_svantovitbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/svantovitbase/chrprfweap_svantovitbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_svantovitbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_schildkrotebase.prefab", "AssetBundleName": "chrprfvhcl_schildkrotebase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/schildkrotebase/chrprfweap_schildkrotebase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_schildkrotebase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_pegasusxbase.prefab", "AssetBundleName": "chrprfvhcl_pegasusxbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/pegasusxbase/chrprfweap_pegasusxbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_pegasusxbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_pegasusbase.prefab", "AssetBundleName": "chrprfvhcl_pegasusbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/pegasusbase/chrprfweap_pegasusbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_pegasusbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_myrmidonbase.prefab", "AssetBundleName": "chrprfvhcl_myrmidonbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/myrmidonbase/chrprfweap_myrmidonbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_myrmidonbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_bolladualac.prefab", "AssetBundleName": "chrprfvhcl_bolladualac" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/bolladualac/chrprfweap_bolladualac_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_bolladualac" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_bollagauss.prefab", "AssetBundleName": "chrprfvhcl_bollagauss" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/bollagauss/chrprfweap_bollagauss_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_bollagauss" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_bollasrm.prefab", "AssetBundleName": "chrprfvhcl_bollasrm" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/bollasrm/chrprfweap_bollasrm_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_bollasrm" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_badger.prefab", "AssetBundleName": "chrprfvhcl_badger" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/badger/chrprfweap_badger_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_badger" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_m1.prefab", "AssetBundleName": "chrprfvhcl_m1" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/m1/chrprfweap_m1_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_m1" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_bmp.prefab", "AssetBundleName": "chrprfvhcl_bmp" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/bmp/chrprfweap_bmp_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_bmp" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_btr.prefab", "AssetBundleName": "chrprfvhcl_btr" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/btr/chrprfweap_btr_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_btr" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_bradley.prefab", "AssetBundleName": "chrprfvhcl_bradley" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/bradley/chrprfweap_bradley_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_bradley" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ftank.prefab", "AssetBundleName": "chrprfvhcl_ftank" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ftank/chrprfweap_ftank_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ftank" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_crusader.prefab", "AssetBundleName": "chrprfvhcl_crusader" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/crusader/chrprfweap_crusader_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_crusader" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_mlrs.prefab", "AssetBundleName": "chrprfvhcl_mlrs" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mlrs/chrprfweap_lrm_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_mlrs" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_mlrs2.prefab", "AssetBundleName": "chrprfvhcl_mlrs2" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mlrs2/chrprfweap_lrm_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_mlrs2" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_mlrs3.prefab", "AssetBundleName": "chrprfvhcl_mlrs3" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mlrs3/chrprfweap_lrm_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_mlrs3" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_mlrs4.prefab", "AssetBundleName": "chrprfvhcl_mlrs4" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mlrs4/chrprfweap_lrm_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_mlrs4" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_mars.prefab", "AssetBundleName": "chrprfvhcl_mars" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mars/chrprfweap_mars_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_mars" },
+
+        { "Type": "Prefab", "Path": "Assets/Character/Vehicle/Prefabs/Weapons/mash/chrPrfWeap_mash_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_mash" },
+        { "Type": "Prefab", "Path": "Assets/Character/Vehicle/Prefabs/chrprfvhcl_mash.prefab", "AssetBundleName": "chrprfvhcl_mash" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_strixvtol.prefab", "AssetBundleName": "chrprfvhcl_strixvtol" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/strixvtol/chrprfweap_strixvtol_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_strixvtol" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_warriorvtol.prefab", "AssetBundleName": "chrprfvhcl_warriorvtol" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/warriorvtol/chrprfweap_warriorvtol_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_warriorvtol" },
+        { "Type": "Prefab", "Path": "assets/rotor/warrior_rotor_bottom_x10_brass.prefab", "AssetBundleName": "warrior_parts" },
+        { "Type": "Prefab", "Path": "assets/rotor/warrior_rotor_top_x10_brass.prefab", "AssetBundleName": "warrior_parts" },
+        { "Type": "Prefab", "Path": "assets/rotor/warrior_turret_x10_red.prefab", "AssetBundleName": "warrior_parts" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_phalftrackbase.prefab", "AssetBundleName": "chrprfvhcl_phalftrackbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/phalftrackbase/chrPrfWeap_phalftrackbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_phalftrackbase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_toybotabase.prefab", "AssetBundleName": "chrprfvhcl_toybotabase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/toybotabase/chrPrfWeap_toybotabase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_toybotabase" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_chaparral.prefab", "AssetBundleName": "chrprfvhcl_chaparral" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/chaparral/chrprfweap_chaparral_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_chaparral" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_chevalier.prefab", "AssetBundleName": "chrprfvhcl_chevalier" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/chevalier/chrprfweap_chevalier_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_chevalier" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gabriel.prefab", "AssetBundleName": "chrprfvhcl_gabriel" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gabriel/chrprfweap_gabriel_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_gabriel" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_kanga.prefab", "AssetBundleName": "chrprfvhcl_kanga" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/kanga/chrprfweap_kanga_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_kanga" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_lightning.prefab", "AssetBundleName": "chrprfvhcl_lightning" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/lightning/chrprfweap_lightning_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_lightning" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_maxim.prefab", "AssetBundleName": "chrprfvhcl_maxim" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/maxim/chrprfweap_maxim_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_maxim" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_zephyr.prefab", "AssetBundleName": "chrprfvhcl_zephyr" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/zephyr/chrprfweap_zephyr_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_zephyr" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_demon.prefab", "AssetBundleName": "chrprfvhcl_demon" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/demon/chrprfweap_demon_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_demon" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_turhan.prefab", "AssetBundleName": "chrprfvhcl_turhan" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/turhan/chrprfweap_turhan_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_turhan" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_vonluckner.prefab", "AssetBundleName": "chrprfvhcl_vonluckner" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/vonluckner/chrprfweap_vonluckner_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_vonluckner" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_magi.prefab", "AssetBundleName": "chrprfvhcl_magi" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/magi/chrprfweap_magi_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_magi" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burke.prefab", "AssetBundleName": "chrprfvhcl_burke" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burke/chrprfweap_burke_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burke" },
+
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_brdm3.prefab", "AssetBundleName": "chrprfvhcl_brdm3" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/brdm3/chrprfweap_brdm3_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_brdm3" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_puma.prefab", "AssetBundleName": "chrprfvhcl_puma" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/puma/chrprfweap_puma_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_puma" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_rhino.prefab", "AssetBundleName": "chrprfvhcl_rhino" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/rhino/chrprfweap_rhino_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_rhino" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_sa6.prefab", "AssetBundleName": "chrprfvhcl_sa6" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/sa6/chrprfweap_sa6_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_sa6" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_scifibug.prefab", "AssetBundleName": "chrprfvhcl_scifibug" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/scifibug/chrprfweap_scifibug_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_scifibug" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_scifispg.prefab", "AssetBundleName": "chrprfvhcl_scifispg" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/scifispg/chrprfweap_scifispg_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_scifispg" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ballista.prefab", "AssetBundleName": "chrprfvhcl_ballista" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ballista/chrprfweap_ballista_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_ballista" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_beagle.prefab", "AssetBundleName": "chrprfvhcl_beagle" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/beagle/chrprfweap_beagle_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_beagle" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_fury.prefab", "AssetBundleName": "chrprfvhcl_fury" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fury/chrprfweap_fury_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_fury" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_baneb.prefab", "AssetBundleName": "chrprfvhcl_baneb" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/baneb/chrprfweap_baneb_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_baneb" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_lruss.prefab", "AssetBundleName": "chrprfvhcl_lruss" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/lruss/chrprfweap_lruss_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_lruss" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_pred.prefab", "AssetBundleName": "chrprfvhcl_pred" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/pred/chrprfweap_pred_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_pred" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_anat.prefab", "AssetBundleName": "chrprfvhcl_anat" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/anat/chrprfweap_anat_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_anat" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_nacon.prefab", "AssetBundleName": "chrprfvhcl_nacon" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/nacon/chrprfweap_nacon_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_nacon" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_toybotatank.prefab", "AssetBundleName": "chrprfvhcl_toybotatank" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/toybotatank/chrPrfWeap_toybotatank_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_toybotatank" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_toybotarocket.prefab", "AssetBundleName": "chrprfvhcl_toybotarocket" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/toybotarocket/chrPrfWeap_toybotarocket_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_toybotarocket" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_skanda.prefab", "AssetBundleName": "chrprfvhcl_skanda" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/skanda/chrPrfWeap_skanda_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_skanda" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burro.prefab", "AssetBundleName": "chrprfvhcl_burro" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burro/chrprfweap_burro_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burro" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burrocistern.prefab", "AssetBundleName": "chrprfvhcl_burrocistern" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burrocistern/chrprfweap_burrocistern_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burrocistern" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burroflat.prefab", "AssetBundleName": "chrprfvhcl_burroflat" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burroflat/chrprfweap_burroflat_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burroflat" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_j37.prefab", "AssetBundleName": "chrprfvhcl_j37" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j37/chrprfweap_j37_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j37" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_j37cistern.prefab", "AssetBundleName": "chrprfvhcl_j37cistern" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j37cistern/chrprfweap_j37cistern_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j37cistern" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carnivore.prefab", "AssetBundleName": "chrprfvhcl_carnivore" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carnivore/chrprfweap_carnivore_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_carnivore" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_divdual.prefab", "AssetBundleName": "chrprfvhcl_divdual" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/divdual/chrprfweap_divdual_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_divdual" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_divhowi.prefab", "AssetBundleName": "chrprfvhcl_divhowi" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/divhowi/chrprfweap_divhowi_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_divhowi" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_giapc.prefab", "AssetBundleName": "chrprfvhcl_giapc" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/giapc/chrprfweap_giapc_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_giapc" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_hadur.prefab", "AssetBundleName": "chrprfvhcl_hadur" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/hadur/chrprfweap_hadur_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_hadur" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_saladin.prefab", "AssetBundleName": "chrprfvhcl_saladin" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/saladin/chrprfweap_saladin_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_saladin" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_maultank.prefab", "AssetBundleName": "chrprfvhcl_maultank" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/maultank/chrprfweap_maultank_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_maultank" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_rommel.prefab", "AssetBundleName": "chrprfvhcl_rommel" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/rommell/chrprfweap_rommel_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_rommel" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_urbtankac.prefab", "AssetBundleName": "chrprfvhcl_urbtankac" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbtankac/chrprfweap_urbtankac_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbtankac" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_urbtankarty.prefab", "AssetBundleName": "chrprfvhcl_urbtankarty" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbtankarty/chrprfweap_urbtankarty_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbtankarty" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_urbtankmiss.prefab", "AssetBundleName": "chrprfvhcl_urbtankmiss" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbtankmiss/chrprfweap_urbtankmiss_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbtankmiss" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_urbtankml.prefab", "AssetBundleName": "chrprfvhcl_urbtankml" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbtankml/chrprfweap_urbtankml_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbtankml" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_giwolverine.prefab", "AssetBundleName": "chrprfvhcl_giwolverine" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/giwolverine/chrPrfWeap_giwolverine_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_giwolverine" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_saracen.prefab", "AssetBundleName": "chrprfvhcl_saracen" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/saracen/chrPrfWeap_saracen_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_saracen" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_scimatar.prefab", "AssetBundleName": "chrprfvhcl_scimatar" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/scimatar/chrPrfWeap_scimatar_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_scimatar" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_tempestmlrs.prefab", "AssetBundleName": "chrprfvhcl_tempestmlrs" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/tempestmlrs/chrprfweap_tempestmlrs_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_tempestmlrs" }
     ]
 }
