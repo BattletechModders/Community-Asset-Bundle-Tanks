@@ -161,9 +161,6 @@
 
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_warriorvtol.prefab", "AssetBundleName": "chrprfvhcl_warriorvtol" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/warriorvtol/chrprfweap_warriorvtol_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_warriorvtol" },
-        { "Type": "Prefab", "Path": "assets/rotor/warrior_rotor_bottom_x10_brass.prefab", "AssetBundleName": "warrior_parts" },
-        { "Type": "Prefab", "Path": "assets/rotor/warrior_rotor_top_x10_brass.prefab", "AssetBundleName": "warrior_parts" },
-        { "Type": "Prefab", "Path": "assets/rotor/warrior_turret_x10_red.prefab", "AssetBundleName": "warrior_parts" },
 
         { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_phalftrackbase.prefab", "AssetBundleName": "chrprfvhcl_phalftrackbase" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/phalftrackbase/chrPrfWeap_phalftrackbase_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_phalftrackbase" },
