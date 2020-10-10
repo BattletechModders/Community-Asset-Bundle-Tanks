@@ -2,6 +2,8 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+Added Strix, Warrior and Yellow Jacket assets for new method
+
 1.0
 
 Initial Commit
