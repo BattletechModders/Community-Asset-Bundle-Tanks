@@ -3,7 +3,7 @@
   "filename": "Helicopter.bnk",
   "type": "Combat",
   "volumeRTPCIds":[4112736799],
-  "volumeShift": -0.2,
+  "volumeShift": -0.5,
   "events":{
     "helicopter_start":3945084603,
     "helicopter_end":2235900128
