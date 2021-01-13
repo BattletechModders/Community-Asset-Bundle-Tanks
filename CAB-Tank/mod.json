@@ -566,6 +566,9 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/strix_front_body_srm8_6.prefab", "AssetBundleName": "strix_body" },
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/strix_front_body_srm9_1.prefab", "AssetBundleName": "strix_body" },
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/strix_front_body_srm9_2.prefab", "AssetBundleName": "strix_body" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/strix_front_body_srm9_3.prefab", "AssetBundleName": "strix_body" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/strix_front_body_srm9_3.prefab", "AssetBundleName": "strix_body" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ontosheat.prefab", "AssetBundleName": "chrprfvhcl_ontosheat" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ontosheat/chrprfweap_ontosheat_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ontosheat" }
     ]
 }

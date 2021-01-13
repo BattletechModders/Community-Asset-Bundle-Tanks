@@ -2,6 +2,12 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+1.2
+
+Added the Ontos Heat
+
+1.1
+
 Added Strix, Warrior and Yellow Jacket assets for new method
 
 1.0
