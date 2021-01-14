@@ -11,7 +11,10 @@ Lightning
 
 FrostRaptor
 License: 
-Creative Commons, Attribution, Non-commercial
+Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Camo textures thanks to Mystic Mike (Mike Hosker)
+Licensed under CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 Models:
 Ontos Heat
