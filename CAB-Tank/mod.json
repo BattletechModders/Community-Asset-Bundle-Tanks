@@ -578,6 +578,9 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ontos3039/chrprfweap_ontos3039_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ontos3039" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_wingedlion.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/wingedlion/chrprfweap_wingedlion_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/wingedlion/chrprfweap_wingedlion_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_fortune.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fortune/chrprfweap_fortune_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_fortune" }
     ]
 }
