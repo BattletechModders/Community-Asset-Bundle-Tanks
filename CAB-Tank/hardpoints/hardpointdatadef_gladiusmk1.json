@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_gladiusmk1",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_gladiusmk1_turret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

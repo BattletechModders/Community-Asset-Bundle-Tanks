@@ -581,6 +581,9 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/wingedlion/chrprfweap_wingedlion_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_fortune.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fortune/chrprfweap_fortune_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_fortune" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fortune/chrprfweap_fortune_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gladiusmk1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gladiusmk1/chrprfweap_gladiusmk1_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" }
     ]
 }
