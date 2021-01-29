@@ -584,6 +584,9 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fortune/chrprfweap_fortune_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gladiusmk1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gladiusmk1/chrprfweap_gladiusmk1_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gladiusmk1/chrprfweap_gladiusmk1_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_brutus.prefab", "AssetBundleName": "chrprfvhcl_brutus" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/brutus/chrprfweap_brutus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_brutus" }
     ]
 }
