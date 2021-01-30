@@ -587,6 +587,9 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gladiusmk1/chrprfweap_gladiusmk1_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_brutus.prefab", "AssetBundleName": "chrprfvhcl_brutus" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/brutus/chrprfweap_brutus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_brutus" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/brutus/chrprfweap_brutus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_brutus" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_teppotenmaku.prefab", "AssetBundleName": "chrprfvhcl_teppotenmaku" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/teppotenmaku/chrprfweap_teppotenmaku_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_teppotenmaku" }
     ]
 }

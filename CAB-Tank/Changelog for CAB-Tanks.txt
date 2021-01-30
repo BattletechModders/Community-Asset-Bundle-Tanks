@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+1.7
+
+Added the Teppo
+
 1.6
 
 Added the Brutus
