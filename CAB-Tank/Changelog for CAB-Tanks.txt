@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+1.9 
+
+Added the Manteuffel
+
 1.8
 
 Added the Balac VTOL

@@ -572,27 +572,30 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ontosheat/chrprfweap_ontosheat_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ontosheat" },
 	
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ontos3058.prefab", "AssetBundleName": "chrprfvhcl_ontos3058" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ontos3058/chrprfweap_ontos3058_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ontos3058" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ontos3039.prefab", "AssetBundleName": "chrprfvhcl_ontos3039" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ontos3039/chrprfweap_ontos3039_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ontos3039" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_wingedlion.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/wingedlion/chrprfweap_wingedlion_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_fortune.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fortune/chrprfweap_fortune_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gladiusmk1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gladiusmk1/chrprfweap_gladiusmk1_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_brutus.prefab", "AssetBundleName": "chrprfvhcl_brutus" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/brutus/chrprfweap_brutus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_brutus" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_teppotenmaku.prefab", "AssetBundleName": "chrprfvhcl_teppotenmaku" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/teppotenmaku/chrprfweap_teppotenmaku_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_teppotenmaku" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/balac_body.prefab", "AssetBundleName": "balac_body" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/balac/chrprfweap_balac_turret_generic_eh1.prefab", "AssetBundleName": "balac_body" }
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ontos3058/chrprfweap_ontos3058_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ontos3058" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ontos3039.prefab", "AssetBundleName": "chrprfvhcl_ontos3039" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ontos3039/chrprfweap_ontos3039_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_ontos3039" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_wingedlion.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/wingedlion/chrprfweap_wingedlion_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_wingedlion" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_fortune.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fortune/chrprfweap_fortune_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_fortune" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gladiusmk1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gladiusmk1/chrprfweap_gladiusmk1_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_gladiusmk1" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_brutus.prefab", "AssetBundleName": "chrprfvhcl_brutus" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/brutus/chrprfweap_brutus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_brutus" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_teppotenmaku.prefab", "AssetBundleName": "chrprfvhcl_teppotenmaku" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/teppotenmaku/chrprfweap_teppotenmaku_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_teppotenmaku" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/balac_body.prefab", "AssetBundleName": "balac_body" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/balac/chrprfweap_balac_turret_generic_eh1.prefab", "AssetBundleName": "balac_body" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_manteuffel.prefab", "AssetBundleName": "chrprfvhcl_manteuffel" },
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/manteuffel/chrprfweap_manteuffel_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_manteuffel" }
     ]
 }
