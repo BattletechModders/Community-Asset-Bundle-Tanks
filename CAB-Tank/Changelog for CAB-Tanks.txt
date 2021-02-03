@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+2.0
+
+Added the Teppo
+
 1.9 
 
 Added the Manteuffel
@@ -12,7 +16,7 @@ Added the Balac VTOL
 
 1.7
 
-Added the Teppo
+Added the Teppotenmaku
 
 1.6
 
