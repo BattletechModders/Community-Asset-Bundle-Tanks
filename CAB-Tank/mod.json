@@ -599,6 +599,9 @@
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/manteuffel/chrprfweap_manteuffel_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_manteuffel" },
 	
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_teppo.prefab", "AssetBundleName": "chrprfvhcl_teppo" },
-	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/teppo/chrprfweap_teppo_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_teppo" }
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/teppo/chrprfweap_teppo_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_teppo" },
+	
+	 { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_regulator.prefab", "AssetBundleName": "chrprfvhcl_regulator" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/regulator/chrprfweap_regulator_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_regulator" }
     ]
 }
