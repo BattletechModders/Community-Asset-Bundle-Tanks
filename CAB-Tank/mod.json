@@ -602,6 +602,12 @@
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/teppo/chrprfweap_teppo_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_teppo" },
 	
 	 { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_regulator.prefab", "AssetBundleName": "chrprfvhcl_regulator" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/regulator/chrprfweap_regulator_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_regulator" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/regulator/chrprfweap_regulator_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_regulator" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_odin.prefab", "AssetBundleName": "chrprfvhcl_odin" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/odin/chrprfweap_odin_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_odin" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_shamash.prefab", "AssetBundleName": "chrprfvhcl_shamash" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/shamash/chrprfweap_shamash_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_shamash" }
     ]
 }
