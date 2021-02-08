@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+2.1
+
+Added FrostRaptor's Alacorn
+
 2.0
 
 Added the Teppo
