@@ -52,6 +52,7 @@ Imported: FrostRaptor
 
 Odin
 Shamash
+Yasha VTOL
 
 
 Everything else in CAB-Tank
