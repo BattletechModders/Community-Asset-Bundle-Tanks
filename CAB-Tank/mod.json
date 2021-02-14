@@ -617,7 +617,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/yasha/chrprfweap_yasha_turret_generic_eh1.prefab", "AssetBundleName": "yasha_body" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carriertac2.prefab", "AssetBundleName": "chrprfvhcl_carriertac2" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carriertac2/chrprfweap_carriertac2_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carriertac2" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carriertac2/chrprfweap_carriertac2_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carriertac2" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carriertac20.prefab", "AssetBundleName": "chrprfvhcl_carriertac20" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carriertac20/chrprfweap_carriertac20_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carriertac20" }
 	
     ]
 }
