@@ -626,7 +626,13 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carrierhtsrm/chrprfweap_carrierhtsrm_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carrierhtsrm" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carrierttbolt.prefab", "AssetBundleName": "chrprfvhcl_carrierttbolt" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carrierttbolt/chrprfweap_carrierttbolt_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carrierttbolt" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carrierttbolt/chrprfweap_carrierttbolt_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carrierttbolt" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_smzorya.prefab", "AssetBundleName": "chrprfvhcl_smzorya" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/smzorya/chrprfweap_smzorya_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_smzorya" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_combatcombinerockets.prefab", "AssetBundleName": "chrprfvhcl_combatcombinerockets" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/combatcombinerockets/chrprfweap_combatcombinerockets_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_combatcombinerockets" }
 	
     ]
 }

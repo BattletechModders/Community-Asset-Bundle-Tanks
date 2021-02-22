@@ -30,7 +30,9 @@ Manteuffel
 Regulator
 Alacorn
 AC2 Carrier
-
+Zorya
+Tbolt Carrier
+Rocket Combine
 
 Winged Lion 
 
