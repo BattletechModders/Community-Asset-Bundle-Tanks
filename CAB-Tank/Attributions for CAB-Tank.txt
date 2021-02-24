@@ -33,6 +33,7 @@ AC2 Carrier
 Zorya
 Tbolt Carrier
 Rocket Combine
+MedLaser Carrier
 
 Winged Lion 
 
