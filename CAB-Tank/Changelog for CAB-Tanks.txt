@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+2.8
+
+Added the Mortar Carrier
+
 2.3-2.7
 
 Added FrostRaptor's AC20 carrier, SRM carrier, AC2 carrier, Thunderbolt carrier, CombatCombine, and Medium Laser carrier. Also added Mortimer's Zorya.

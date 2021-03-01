@@ -34,6 +34,7 @@ Zorya
 Tbolt Carrier
 Rocket Combine
 MedLaser Carrier
+Mortar Carrier
 
 Winged Lion 
 

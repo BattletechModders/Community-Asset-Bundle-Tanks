@@ -635,7 +635,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/combatcombinerockets/chrprfweap_combatcombinerockets_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_combatcombinerockets" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carrierwmlas.prefab", "AssetBundleName": "chrprfvhcl_carrierwmlas" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carrierwmlas/chrprfweap_carrierwmlas_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carrierwmlas" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carrierwmlas/chrprfweap_carrierwmlas_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carrierwmlas" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carriertmortars.prefab", "AssetBundleName": "chrprfvhcl_carriertmortars" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carriertmortars/chrprfweap_carriertmortars_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carriertmortars" }
 	
     ]
 }
