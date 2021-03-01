@@ -638,7 +638,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carrierwmlas/chrprfweap_carrierwmlas_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carrierwmlas" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carriertmortars.prefab", "AssetBundleName": "chrprfvhcl_carriertmortars" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carriertmortars/chrprfweap_carriertmortars_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carriertmortars" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carriertmortars/chrprfweap_carriertmortars_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carriertmortars" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_plainsman.prefab", "AssetBundleName": "chrprfvhcl_plainsman" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/plainsman/chrprfweap_plainsman_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_plainsman" }
 	
     ]
 }

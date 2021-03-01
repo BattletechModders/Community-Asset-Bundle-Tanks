@@ -35,6 +35,7 @@ Tbolt Carrier
 Rocket Combine
 MedLaser Carrier
 Mortar Carrier
+Plainsman
 
 Winged Lion 
 
