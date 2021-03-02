@@ -36,6 +36,7 @@ Rocket Combine
 MedLaser Carrier
 Mortar Carrier
 Plainsman
+Flamer Carrier
 
 Winged Lion 
 
