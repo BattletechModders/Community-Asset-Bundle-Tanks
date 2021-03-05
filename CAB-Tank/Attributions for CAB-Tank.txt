@@ -37,6 +37,7 @@ MedLaser Carrier
 Mortar Carrier
 Plainsman
 Flamer Carrier
+Tokugawa
 
 Winged Lion 
 
