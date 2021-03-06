@@ -647,7 +647,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carrierwflamer/chrprfweap_carrierwflamer_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_carrierwflamer" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_tokugawa.prefab", "AssetBundleName": "chrprfvhcl_tokugawa" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/tokugawa/chrprfweap_tokugawa_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_tokugawa" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/tokugawa/chrprfweap_tokugawa_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_tokugawa" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_mlptank.prefab", "AssetBundleName": "chrprfvhcl_mlptank" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mlptank/chrprfweap_mlptank_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_mlptank" },
 	
     ]
 }
