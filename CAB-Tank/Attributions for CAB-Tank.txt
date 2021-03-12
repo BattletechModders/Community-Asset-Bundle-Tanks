@@ -38,6 +38,8 @@ Mortar Carrier
 Plainsman
 Flamer Carrier
 Tokugawa
+Sturmfeur
+MLP Tank
 
 Winged Lion 
 
