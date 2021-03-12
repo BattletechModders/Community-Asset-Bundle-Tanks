@@ -651,6 +651,9 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_mlptank.prefab", "AssetBundleName": "chrprfvhcl_mlptank" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mlptank/chrprfweap_mlptank_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_mlptank" },
+		
+		 { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_sturmfeur.prefab", "AssetBundleName": "chrprfvhcl_sturmfeur" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/sturmfeur/chrprfweap_sturmfeur_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_sturmfeur" }
 	
     ]
 }
