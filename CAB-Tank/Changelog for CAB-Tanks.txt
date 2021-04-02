@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+3.4
+
+Added the Mithras
+
 3.2-3.3
 
 Added the Sturmfeur and MLP tank
