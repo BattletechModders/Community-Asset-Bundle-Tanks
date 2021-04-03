@@ -64,6 +64,7 @@ Odin
 Shamash
 Yasha VTOL
 Mithras
+Brunel
 
 
 Everything else in CAB-Tank

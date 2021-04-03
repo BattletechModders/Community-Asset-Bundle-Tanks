@@ -656,7 +656,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/sturmfeur/chrprfweap_sturmfeur_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_sturmfeur" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_smmithras.prefab", "AssetBundleName": "chrprfvhcl_smmithras" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/smmithras/chrprfweap_smmithras_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_smmithras" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/smmithras/chrprfweap_smmithras_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_smmithras" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_smbrunel.prefab", "AssetBundleName": "chrprfvhcl_smbrunel" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/smbrunel/chrprfweap_smbrunel_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_smbrunel" }
 	
     ]
 }

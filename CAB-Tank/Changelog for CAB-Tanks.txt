@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+3.5
+
+Added the Brunel
+
 3.4
 
 Added the Mithras
