@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+3.6
+
+Added the Kalki Cruise Missile Artillery Tank
+
 3.5
 
 Added the Brunel
