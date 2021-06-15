@@ -662,7 +662,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/smbrunel/chrprfweap_smbrunel_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_smbrunel" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_kalki.prefab", "AssetBundleName": "chrprfvhcl_kalki" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/kalki/chrprfweap_kalki_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_kalki" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/kalki/chrprfweap_kalki_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_kalki" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_irpike.prefab", "AssetBundleName": "chrprfvhcl_irpike" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/irpike/chrprfweap_irpike_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_irpike" },
 	
     ]
 }
