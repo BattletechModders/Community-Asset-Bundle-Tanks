@@ -2,6 +2,14 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+3.8
+
+Added the Frost Coolant Truck. Also updated the Ballista thanks to Transient.
+
+3.7.5
+
+Updated Ontos 3039
+
 3.7
 
 Added the Pike 

@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_135kcoolanttruck",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_135kcoolanttruck_turret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

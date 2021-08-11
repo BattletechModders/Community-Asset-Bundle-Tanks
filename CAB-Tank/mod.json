@@ -666,6 +666,9 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_irpike.prefab", "AssetBundleName": "chrprfvhcl_irpike" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/irpike/chrprfweap_irpike_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_irpike" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_135kcoolanttruck.prefab", "AssetBundleName": "chrprfvhcl_135kcoolanttruck" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/135kcoolanttruck/chrprfweap_135kcoolanttruck_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_135kcoolanttruck" }
 	
     ]
 }
