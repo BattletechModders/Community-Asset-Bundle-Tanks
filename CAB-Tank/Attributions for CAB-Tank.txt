@@ -43,6 +43,7 @@ MLP Tank
 Kalki
 Pike
 Coolant Truck
+Paladin
 
 Winged Lion 
 
