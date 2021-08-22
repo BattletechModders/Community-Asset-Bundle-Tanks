@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+4.0
+
+Added the Aerospace Fighter Seabuster
+
 3.9
 
 Added the Paladin 

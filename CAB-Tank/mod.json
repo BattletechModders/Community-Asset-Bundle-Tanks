@@ -671,7 +671,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/135kcoolanttruck/chrprfweap_135kcoolanttruck_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_135kcoolanttruck" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_paladin.prefab", "AssetBundleName": "chrprfvhcl_paladin" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/paladin/chrprfweap_paladin_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_paladin" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/paladin/chrprfweap_paladin_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_paladin" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_seabuster.prefab", "AssetBundleName": "chrprfvhcl_aero_seabuster" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_seabuster/chrprfweap_aero_seabuster_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_seabuster" }
 	
     ]
 }

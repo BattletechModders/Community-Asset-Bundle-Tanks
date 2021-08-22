@@ -44,6 +44,7 @@ Kalki
 Pike
 Coolant Truck
 Paladin
+Aero Seabuster
 
 Winged Lion 
 
