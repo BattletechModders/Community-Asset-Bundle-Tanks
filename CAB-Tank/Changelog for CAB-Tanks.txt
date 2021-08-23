@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+4.1
+
+Added the Aerospace Fighter Shilone
+
 4.0
 
 Added the Aerospace Fighter Seabuster

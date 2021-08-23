@@ -674,7 +674,10 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/paladin/chrprfweap_paladin_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_paladin" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_seabuster.prefab", "AssetBundleName": "chrprfvhcl_aero_seabuster" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_seabuster/chrprfweap_aero_seabuster_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_seabuster" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_seabuster/chrprfweap_aero_seabuster_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_seabuster" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_shilone.prefab", "AssetBundleName": "chrprfvhcl_aero_shilone" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_shilone/chrprfweap_aero_shilone_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_shilone" }
 	
     ]
 }
