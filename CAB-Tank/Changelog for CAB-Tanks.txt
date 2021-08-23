@@ -2,6 +2,26 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+4.1
+
+Added the Aerospace Fighter Shilone
+
+4.0
+
+Added the Aerospace Fighter Seabuster
+
+3.9
+
+Added the Paladin 
+
+3.8
+
+Added the Frost Coolant Truck. Also updated the Ballista thanks to Transient.
+
+3.7.5
+
+Updated Ontos 3039
+
 3.7
 
 Added the Pike 

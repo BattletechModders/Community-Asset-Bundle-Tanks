@@ -42,6 +42,10 @@ Sturmfeur
 MLP Tank
 Kalki
 Pike
+Coolant Truck
+Paladin
+Aero Seabuster
+Aero Shilone
 
 Winged Lion 
 
