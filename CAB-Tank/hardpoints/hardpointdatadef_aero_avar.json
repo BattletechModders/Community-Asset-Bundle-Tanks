@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_aero_avar",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_aero_avar_turret_generic_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

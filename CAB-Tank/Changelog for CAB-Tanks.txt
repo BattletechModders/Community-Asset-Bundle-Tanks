@@ -2,6 +2,14 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+4.3
+
+Added a battery of Aerospace Fighters: the Avar, the Batu, the Screamer, the Switchblade, and the VF1/4/11/21/31.
+
+4.2
+
+Added the Testudo 
+
 4.1
 
 Added the Aerospace Fighter Shilone

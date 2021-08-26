@@ -7,7 +7,14 @@ License:
 Creative Commons, Attribution, Non-commercial
 
 Models:
-Lightning
+Lightning Aerospace
+
+Transient74
+License: 
+Creative Commons, Attribution, Non-commercial
+
+Models:
+Screamer Aerospace
 
 FrostRaptor
 License: 
@@ -46,13 +53,28 @@ Coolant Truck
 Paladin
 Aero Seabuster
 Aero Shilone
+Testudo
 
-Winged Lion 
+IonRaptor with Import/Texture by FrostRaptor
+License: 
+Unlicensed
 
-Modeler: IonRaptor
-Licensed under ???
+Model:
+Winged Lion
 
-Imported & Textured by FrostRaptor
+SupermotoXL
+License:
+Unlicensed
+
+Model:
+Switchblade
+Avar
+Batu
+VF 1
+VF 4
+VF 11
+VF 21
+VF 31
 
 Warrior House Ma Tsu Kai vectorized by Legend Killer
 See https://unitcolorcompendium.com/2018/12/13/warrior-house-ma-tsu-kai/
@@ -60,12 +82,11 @@ Licensed under ????
 
 Modeler: SirMortimer
 Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 Textures: Transient
 Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 Imported: FrostRaptor
 
+Models:
 Odin
 Shamash
 Yasha VTOL

@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_testudo",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_testudo_turret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

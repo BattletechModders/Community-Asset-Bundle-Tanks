@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_aero_switchblade",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_aero_switchblade_turret_generic_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

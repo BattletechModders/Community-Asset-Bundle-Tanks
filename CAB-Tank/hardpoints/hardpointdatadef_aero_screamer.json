@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_aero_screamer",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_aero_screamer_turret_generic_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

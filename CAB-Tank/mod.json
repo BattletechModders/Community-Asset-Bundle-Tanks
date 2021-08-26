@@ -677,7 +677,37 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_seabuster/chrprfweap_aero_seabuster_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_seabuster" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_shilone.prefab", "AssetBundleName": "chrprfvhcl_aero_shilone" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_shilone/chrprfweap_aero_shilone_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_shilone" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_shilone/chrprfweap_aero_shilone_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_shilone" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_testudo.prefab", "AssetBundleName": "chrprfvhcl_testudo" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/testudo/chrprfweap_testudo_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_testudo" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_screamer.prefab", "AssetBundleName": "chrprfvhcl_aero_screamer" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_screamer/chrprfweap_aero_screamer_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_screamer" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_switchblade.prefab", "AssetBundleName": "chrprfvhcl_aero_switchblade" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_switchblade/chrprfweap_aero_switchblade_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_switchblade" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf1" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf1/chrprfweap_aero_vf1_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf1" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf4.prefab", "AssetBundleName": "chrprfvhcl_aero_vf4" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf4/chrprfweap_aero_vf4_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf4" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf11.prefab", "AssetBundleName": "chrprfvhcl_aero_vf11" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf11/chrprfweap_aero_vf11_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf11" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf21.prefab", "AssetBundleName": "chrprfvhcl_aero_vf21" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf21/chrprfweap_aero_vf21_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf21" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf31.prefab", "AssetBundleName": "chrprfvhcl_aero_vf31" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf31/chrprfweap_aero_vf31_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf31" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_avar.prefab", "AssetBundleName": "chrprfvhcl_aero_avar" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_avar/chrprfweap_aero_avar_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_avar" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_batu.prefab", "AssetBundleName": "chrprfvhcl_aero_batu" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_batu/chrprfweap_aero_batu_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_batu" }
 	
     ]
 }
