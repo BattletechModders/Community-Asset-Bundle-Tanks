@@ -54,6 +54,7 @@ Paladin
 Aero Seabuster
 Aero Shilone
 Testudo
+Main Gauche
 
 IonRaptor with Import/Texture by FrostRaptor
 License: 
