@@ -55,6 +55,7 @@ Aero Seabuster
 Aero Shilone
 Testudo
 Main Gauche
+Augustus/Moltke
 
 IonRaptor with Import/Texture by FrostRaptor
 License: 

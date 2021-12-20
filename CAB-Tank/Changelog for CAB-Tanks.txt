@@ -2,6 +2,14 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+4.5
+
+Added the Augustus/Moltke
+
+4.4
+
+Added the Main Gauche
+
 4.3
 
 Added a battery of Aerospace Fighters: the Avar, the Batu, the Screamer, the Switchblade, and the VF1/4/11/21/31.
