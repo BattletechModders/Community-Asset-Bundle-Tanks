@@ -707,7 +707,7 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_avar/chrprfweap_aero_avar_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_avar" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_batu.prefab", "AssetBundleName": "chrprfvhcl_aero_batu" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_batu/chrprfweap_aero_batu_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_batu" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_batu/chrprfweap_aero_batu_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_batu" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_maingauche.prefab", "AssetBundleName": "chrprfvhcl_maingauche" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/maingauche/chrprfweap_maingauche_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_maingauche" },
