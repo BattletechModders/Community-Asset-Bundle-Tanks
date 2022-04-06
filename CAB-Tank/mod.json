@@ -713,7 +713,25 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/maingauche/chrprfweap_maingauche_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_maingauche" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_augustus.prefab", "AssetBundleName": "chrprfvhcl_augustus" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/augustus/chrprfweap_augustus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_augustus" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/augustus/chrprfweap_augustus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_augustus" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_salttruckmrb.prefab", "AssetBundleName": "chrprfvhcl_salttruckmrb" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/salttruckmrb/chrprfweap_salttruckmrb_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_salttruckmrb" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_salttruckarrow.prefab", "AssetBundleName": "chrprfvhcl_salttruckarrow" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/salttruckarrow/chrprfweap_salttruckarrow_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_salttruckarrow" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_salttruckbox.prefab", "AssetBundleName": "chrprfvhcl_salttruckbox" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/salttruckbox/chrprfweap_salttruckbox_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_salttruckbox" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_salttruckcrane.prefab", "AssetBundleName": "chrprfvhcl_salttruckcrane" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/salttruckcrane/chrprfweap_salttruckcrane_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_salttruckcrane" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_salttruckecm.prefab", "AssetBundleName": "chrprfvhcl_salttruckecm" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/salttruckecm/chrprfweap_salttruckecm_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_salttruckecm" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_salttruckgun.prefab", "AssetBundleName": "chrprfvhcl_salttruckgun" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/salttruckgun/chrprfweap_salttruckgun_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_salttruckgun" }
 	
     ]
 }
