@@ -2,10 +2,6 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
-4.6
-
-Added the Mobile Repair Base
-
 4.5
 
 Added the Augustus/Moltke

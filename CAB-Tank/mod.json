@@ -713,10 +713,7 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/maingauche/chrprfweap_maingauche_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_maingauche" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_augustus.prefab", "AssetBundleName": "chrprfvhcl_augustus" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/augustus/chrprfweap_augustus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_augustus" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_mobilerepairbase.prefab", "AssetBundleName": "chrprfvhcl_mobilerepairbase" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/mobilerepairbase/chrprfweap_mobilerepairbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_mobilerepairbase" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/augustus/chrprfweap_augustus_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_augustus" }
 	
     ]
 }
