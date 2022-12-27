@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+4.9 
+
+Added the Eisensturm ASF
+
 4.8
 
 Added the Slayer ASF
