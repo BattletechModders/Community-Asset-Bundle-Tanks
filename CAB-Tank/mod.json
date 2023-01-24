@@ -740,7 +740,11 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_slayer/chrprfweap_aero_slayer_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_slayer" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_eisensturm.prefab", "AssetBundleName": "chrprfvhcl_aero_eisensturm" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_eisensturm/chrprfweap_aero_eisensturm_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_eisensturm" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_eisensturm/chrprfweap_aero_eisensturm_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_eisensturm" },
+
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_glaive.prefab", "AssetBundleName": "chrprfvhcl_glaive" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/glaive/chrprfweap_glaive_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_glaive" }
+
 	
     ]
 }

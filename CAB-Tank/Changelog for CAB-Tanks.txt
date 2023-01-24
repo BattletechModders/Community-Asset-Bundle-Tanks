@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+5.0
+
+Added the Glaive
+
 4.9 
 
 Added the Eisensturm ASF
