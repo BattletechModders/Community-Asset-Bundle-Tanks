@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_weinermobile",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_weinermobile_turret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}
