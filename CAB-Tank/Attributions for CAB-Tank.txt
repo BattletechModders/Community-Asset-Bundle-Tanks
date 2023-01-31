@@ -108,5 +108,12 @@ Mithras
 Brunel
 
 
+OnlyQ
+License:
+Unlicensed
+
+Model:
+Skadi VTOL
+
 Everything else in CAB-Tank
 We received permission to use and include these from a source no longer with the community. If any of these are yours and you can prove as such, please contact us and we'll remove them or attribute them as you desire.
