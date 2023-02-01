@@ -110,7 +110,7 @@ Brunel
 
 OnlyQ
 License:
-Unlicensed
+Attribution-NonCommercial-ShareAlike
 
 Model:
 Skadi VTOL
