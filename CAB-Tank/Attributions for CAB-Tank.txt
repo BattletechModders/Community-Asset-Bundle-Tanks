@@ -1,28 +1,16 @@
 Attributions for CAB-Tank
 
-This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model) and the license under which that author releases their model.
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
 
 Lt. Shade
-License: 
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Lightning Aerospace
 
 Transient74
-License: 
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Screamer Aerospace
 
 FrostRaptor
-License: 
-Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-Camo textures thanks to Mystic Mike (Mike Hosker)
-Licensed under CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
 Models:
 Ontos Heat
 Ontos 3039
@@ -61,25 +49,16 @@ Eisensturm ASF
 Weinermobile
 
 IonRaptor with Import/Texture by FrostRaptor
-License: 
-Unlicensed
-
 Model:
 Winged Lion
 
 IonRaptor with Import/Texture by Transient74
-License: 
-Unlicensed
-
 Model:
 Salt Trucks (Arrow, Box, Crane, ECM, Gun, MRB)
 Athena
 Glaive
 
 SupermotoXL
-License:
-Unlicensed
-
 Model:
 Switchblade
 Avar
@@ -90,16 +69,7 @@ VF 11
 VF 21
 VF 31
 
-Warrior House Ma Tsu Kai vectorized by Legend Killer
-See https://unitcolorcompendium.com/2018/12/13/warrior-house-ma-tsu-kai/
-Licensed under ????
-
 Modeler: SirMortimer
-Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Textures: Transient
-Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Imported: FrostRaptor
-
 Models:
 Odin
 Shamash
@@ -109,9 +79,6 @@ Brunel
 
 
 OnlyQ
-License:
-Attribution-NonCommercial-ShareAlike
-
 Model:
 Skadi VTOL
 
