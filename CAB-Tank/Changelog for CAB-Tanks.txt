@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+5.3
+
+Added the Aeron VTOL
+
 5.2
 
 Added the Skadi VTOL
