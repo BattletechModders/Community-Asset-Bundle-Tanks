@@ -21,7 +21,7 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/hetzerbase/chrprfweap_hetzerbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_hetzerbase" },
 
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_savannahbase.prefab", "AssetBundleName": "chrprfvhcl_savannahbase" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/savannahbase/chrprfweap_savannahbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_savannahbase" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/savannahbase/chrprfweap_savannahbase_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_savannahbase" },
 
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_jedgarbase.prefab", "AssetBundleName": "chrprfvhcl_jedgarbase" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/jedgarbase/chrprfweap_jedgarbase_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_jedgarbase" },
@@ -749,7 +749,7 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/weinermobile/chrprfweap_weinermobile_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_weinermobile" },
 
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_skadi.prefab", "AssetBundleName": "chrprfvhcl_skadi" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/skadi/chrprfweap_skadi_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_skadi" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/skadi/chrprfweap_skadi_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_skadi" },
 
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aeronvtol.prefab", "AssetBundleName": "chrprfvhcl_aeronvtol" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aeronvtol/chrprfweap_aeronvtol_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aeronvtol" }
