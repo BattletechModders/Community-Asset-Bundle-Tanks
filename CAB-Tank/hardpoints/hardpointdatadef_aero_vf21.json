@@ -3,7 +3,11 @@
     "HardpointData" : [
         {
             "location" : "turret",
-            "weapons" : [ ],
+            "weapons" : [
+                [
+                    "chrprfweap_aero_vf21_turret_generic_mh1"
+                ]
+            ],
             "blanks" : [
                 
             ],

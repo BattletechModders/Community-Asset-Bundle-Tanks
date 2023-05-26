@@ -683,18 +683,25 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/testudo/chrprfweap_testudo_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_testudo" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_screamer.prefab", "AssetBundleName": "chrprfvhcl_aero_screamer" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_screamer/chrprfweap_aero_screamer_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_screamer" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_switchblade.prefab", "AssetBundleName": "chrprfvhcl_aero_switchblade" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_switchblade/chrprfweap_aero_switchblade_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_switchblade" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf1" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf1/chrprfweap_aero_vf1_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf1" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf4.prefab", "AssetBundleName": "chrprfvhcl_aero_vf4" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf4/chrprfweap_aero_vf4_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf4" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf11.prefab", "AssetBundleName": "chrprfvhcl_aero_vf11" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf11/chrprfweap_aero_vf11_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf11" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf21.prefab", "AssetBundleName": "chrprfvhcl_aero_vf21" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf21/chrprfweap_aero_vf21_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf21" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_vf31.prefab", "AssetBundleName": "chrprfvhcl_aero_vf31" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_vf31/chrprfweap_aero_vf31_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_vf31" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_avar.prefab", "AssetBundleName": "chrprfvhcl_aero_avar" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_avar/chrprfweap_aero_avar_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_avar" },
@@ -727,6 +734,7 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/salttruckgun/chrprfweap_salttruckgun_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_salttruckgun" },
 
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_athena.prefab", "AssetBundleName": "chrprfvhcl_athena" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/athena/chrprfweap_athena_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_athena" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_slayer.prefab", "AssetBundleName": "chrprfvhcl_aero_slayer" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_slayer/chrprfweap_aero_slayer_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_slayer" },
@@ -735,6 +743,7 @@
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_eisensturm/chrprfweap_aero_eisensturm_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_aero_eisensturm" },
 
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_glaive.prefab", "AssetBundleName": "chrprfvhcl_glaive" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/glaive/chrprfweap_glaive_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_glaive" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_weinermobile.prefab", "AssetBundleName": "chrprfvhcl_weinermobile" },
         { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/weinermobile/chrprfweap_weinermobile_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_weinermobile" },
