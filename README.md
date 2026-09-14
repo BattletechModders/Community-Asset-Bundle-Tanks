@@ -31,3 +31,13 @@ As stated above, the models in the CAB are provided to the community as a unifie
 ## End User Installers
 
 Jamie Wolf (@jamie wolf#5379) has provided several mod packs with installers that make downloading the CAB convenient for end-users. If you are interested in such an integration, please contact him on the RogueTech discord.
+
+## CAB Submission Information
+
+The CAB will accept submissions from importers with the following caveats: 
+
+* The model must be confirmed to be fully human produced with no AI involved in the process and provenance of the model must be provided upon request
+
+* The importer may make use of AI to assist them in the importing process but must disclose that fact and be willing to share their code for review by the CAB team upon request. 
+
+The CAB team reserves the right to reject a submission to the CAB at their option.
